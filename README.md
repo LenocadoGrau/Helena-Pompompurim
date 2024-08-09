@@ -1,4 +1,4 @@
-# Helena-Pompompurim
+![image](https://github.com/user-attachments/assets/e40b02b0-e924-4d0c-bc2a-f6a02f8c1efa)# Helena-Pompompurim
 Não sei o que estou fazendo, apenas seguindo as instruções do precioso Alura (OBS: não queria estar fazendo isso)
 
 
@@ -14,4 +14,5 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 @alurastartestudante
 
-![https://i.gifer.com/4SHX.gif](link)
+![file:///C:/Users/ALUNO/Pictures/f5026f5ddbdfacfeab04e4d078175c15_w200.webp](link)
+
