@@ -12,7 +12,8 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 **Você pode entrar em contato comigo** 📫
 00001238720675sp@al.educacao.sp.gov.br
 
-@alurastartestudante
+@HeleninhaBalaPerdida
 
 ![image](https://github.com/user-attachments/assets/4c42c9cb-ec5c-460a-b5cf-d0bf2f8f4b58)
 
+> Escrito por Helena
