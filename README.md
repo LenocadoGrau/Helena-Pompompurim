@@ -14,5 +14,5 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 @alurastartestudante
 
-![file:///C:/Users/ALUNO/Pictures/f5026f5ddbdfacfeab04e4d078175c15_w200.webp](gif)
+![image](https://github.com/user-attachments/assets/4c42c9cb-ec5c-460a-b5cf-d0bf2f8f4b58)
 
